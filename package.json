@@ -1,0 +1,28 @@
+{
+  "name": "web-app-twitter-clone",
+  "version": "1.0.0",
+  "description": "A clone app for twitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-watch": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan R K",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "franc": "^5.0.0",
+    "mongoose": "^5.9.23",
+    "node-notifier": "^7.0.1",
+    "open": "^7.0.4",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
