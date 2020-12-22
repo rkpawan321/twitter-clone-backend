@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "franc": "^5.0.0",
     "mongoose": "^5.9.23",
-    "node-notifier": "^7.0.1",
+    "node-notifier": "^8.0.1",
     "open": "^7.0.4",
     "twit": "^2.2.11",
     "twitter": "^1.7.1"
